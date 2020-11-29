@@ -1,0 +1,14 @@
+Doctor appt
+11/13/20 09:15 11:00
+Meeting
+11/13/20 12:15 14:00
+Interview at BigCorp
+11/14/20 09:30 11:30
+Apple's unpack
+11/14/20 16:15 17:00
+Dentist appt
+11/15/20 16:15 17:00
+Final ISE130
+12/10/20 09:00 10:15
+Final Cs151
+12/10/20 10:30 11:45
